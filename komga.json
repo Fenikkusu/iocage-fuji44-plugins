@@ -1,7 +1,7 @@
 {
   "name": "komga",
   "release": "12.2-RELEASE",
-  "artifact": "https://github.com/fuji44/iocage-plugin-komga.git",
+  "artifact": "https://github.com/Fenikkusu/iocage-plugin-komga.git",
   "properties": {
     "boot": "on",
     "mount_fdescfs": "yes",
